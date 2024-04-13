@@ -1,7 +1,7 @@
 html,
 body {
   min-width: 290px;
-  color: #4d4e53;
+  color: #212223;
   background-color: #ffffff;
   font-family: 'Open Sans', Arial, sans-serif;
   line-height: 1.5;
@@ -15,11 +15,11 @@ body {
   width: 300px;
   height: 100%;
   border-right: solid;
-  border-color: rgba(0, 22, 22, 0.4);
+  border-color: rgba(169, 176, 186, 0.4);
 }
 
 header {
-  color: black;
+  color: rgba(1, 88, 188, 0.783);
   margin: 10px;
   text-align: center;
   font-size: 1.8em;
@@ -39,7 +39,7 @@ header {
 }
 
 #navbar li {
-  color: #4d4e53;
+  color: #5e5e65;
   border-top: 1px solid;
   list-style: none;
   position: relative;
@@ -49,7 +49,7 @@ header {
 #navbar a {
   display: block;
   padding: 10px 30px;
-  color: #4d4e53;
+  color: #4d4f51;
   text-decoration: none;
   cursor: pointer;
 }
@@ -62,7 +62,7 @@ header {
 }
 
 section article {
-  color: #4d4e53;
+  color: #4d6f9c;
   margin: 15px;
   font-size: 0.96em;
 }
@@ -120,4 +120,4 @@ code {
     padding-right: 45px;
     min-width: 233px;
   }
-}
+
